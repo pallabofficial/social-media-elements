@@ -20,7 +20,8 @@ To visit this website, click on the link below👇👇👇👇👇👇👇👇�
 
 
 ## Scope of Improvement
-
+• make the border of the card images curvy<br>
+• add events to all the buttons using querySelectorAll<br>
 
 ## New Ideas
 
